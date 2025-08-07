@@ -8,6 +8,7 @@ Implement simple and multiple linear regression on a given dataset (House Prices
 - pandas
 - scikit-learn
 - matplotlib
+- numpy
 
 ## 🔍 Evaluation Metrics
 - MAE (Mean Absolute Error)
@@ -23,8 +24,8 @@ Implement simple and multiple linear regression on a given dataset (House Prices
 - MAE: 898431.8983531971
 - MSE: 1505858701047.998
 - R²:  0.47740787592677636
-- intercept: -455168.91520697996
-- coeffivients:  [3.91399981e+02 4.74566091e+05 1.41525995e+06]
+- intercept:2329244.913495151
+- coeffivients:  [475.26784571]
 
 
 ## 📎 Files
